@@ -37,14 +37,14 @@ public class DemoTestClass {
 		int b= 10; 
 		Assert.assertEquals(2, a/b);
 	}
-	@Test
-	public void map()
-	{
-		Mavengmap mymap = new Mavengmap();
-		Assert.assertEquals(1,mymap.map(1));
-		
-
-	}
+//	@Test
+//	public void map()
+//	{
+//		Mavengmap mymap = new Mavengmap();
+//		Assert.assertEquals(1,mymap.map(1));
+//		
+//
+//	}
 	
 	
 

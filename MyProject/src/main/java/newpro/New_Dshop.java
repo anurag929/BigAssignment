@@ -21,7 +21,7 @@ public class New_Dshop {
 		driver.findElement(By.xpath("//*[@id=\"gender-male\"]")).click();
 		driver.findElement(By.xpath("//*[@id=\"FirstName\"]")).sendKeys("Anurag");
 		driver.findElement(By.xpath("//*[@id=\"LastName\"]")).sendKeys("Mohanty");
-		driver.findElement(By.xpath("//*[@id=\"Email\"]")).sendKeys("anuragncndjcn2229@gmail.com");
+		driver.findElement(By.xpath("//*[@id=\"Email\"]")).sendKeys("anuragncndjcn227772239@gmail.com");
 		driver.findElement(By.xpath("//*[@id=\"Password\"]")).sendKeys("Anurag029@");
 		driver.findElement(By.xpath("//*[@id=\"ConfirmPassword\"]")).sendKeys("Anurag029@");
 		driver.findElement(By.xpath("//*[@id=\"register-button\"]")).click();

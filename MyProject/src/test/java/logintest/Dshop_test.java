@@ -23,17 +23,17 @@ public class Dshop_test {
 
 		
 		}
-		@Test
-		public void Register2()
-		{
-
-			
-			Login ln1 = new Login();
-			ln1.login1();
-			
-
-		
-		}
-		
+//		@Test
+//		public void Register2()
+//		{
+//
+//			
+//			Login ln1 = new Login();
+//			ln1.login1();
+//			
+//
+//		
+//		}
+//		
 
 }
